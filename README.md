@@ -40,7 +40,7 @@ nvm install --lts
 **Get Started!**
 ```bash
 # Clone the repo
-git clone https://github.com/MichaelZona/GPT-4V-Act ai-browser
+git clone https://github.com/MichaelZona/GPT4v_test.git
 # Navigate to the repo directory
 cd ai-browser
 # Install the required packages
