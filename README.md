@@ -10,6 +10,7 @@ sudo apt install xvfb
 ```
 
 Attention : maybe your ```Node.js``` version is not available during the installation of ```npm```. So run following commands first.
+
 (Reference website: [nvm install](https://github.com/nvm-sh/nvm#installing-and-updating). We need to install nvm first)
 
 ```bash
