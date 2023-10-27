@@ -16,7 +16,7 @@ Attention : maybe your ```Node.js``` version is not available during the install
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 
-or
+# or
 
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
