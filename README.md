@@ -2,6 +2,8 @@
 
 ## This is develeped from [GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act)
 
+In this repository, you can use GPT-4V with a python file.
+
 you need to install MobaXterm or ```Xvfb``` (suggested) first.
 
 ```bash
