@@ -48,5 +48,5 @@ cd ai-browser
 # Install the required packages
 npm install
 # Start test
-xvfb-run test.js
+xvfb-run python call_js.py
 ```
