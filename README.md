@@ -44,7 +44,7 @@ nvm install --lts
 # Clone the repo
 git clone https://github.com/MichaelZona/GPT4v_test.git
 # Navigate to the repo directory
-cd ai-browser
+cd GPT4v_test
 # Install the required packages
 npm install
 # Start test
